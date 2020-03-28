@@ -3,7 +3,7 @@
 
 Puedes editar el archivo XML para añadir la dirección y el ID de las cámara, junto con la exensión de la imágen. 
 
-Questions: roman@rotor-studio.net
+Questions: @rtorre
  
 Made with OpenFrameworks.cc
  
