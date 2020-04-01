@@ -4,7 +4,7 @@
 		<urlCam>http://informo.munimadrid.es/cameras/Camara</urlCam>
         <ext>.jpg</ext>
         <timeToCapture>30.0</timeToCapture>
-        <columns>6</columns>
+        <columns>10</columns>
 	</settings>
     <cameras>
         <camId>07301</camId>
@@ -44,6 +44,45 @@
         <camId>11313</camId>
         <camId>13310</camId>
         <camId>20307</camId>
+        <camId>08329</camId>
+        <camId>08333</camId>
+        <camId>21303</camId>
+        <camId>20308</camId>
+        <camId>18305</camId>
+        <camId>13306</camId>
+        <camId>10313</camId>
+        <camId>10315</camId>
+        <camId>11301</camId>
+        <camId>03309</camId>
+        <camId>01319</camId>
+        <camId>01323</camId>
+        <camId>04322</camId>
+        <camId>03301</camId>
+        <camId>04315</camId>
+        <camId>09317</camId>
+        <camId>07309</camId>
+        <camId>09319</camId>
+        <camId>07302</camId>
+        <camId>04313</camId>
+        <camId>02307</camId>
+        <camId>03306</camId>
+        <camId>04301</camId>
+        <camId>15308</camId>
+        <camId>20302</camId>
+        <camId>04305</camId>
+        <camId>04321</camId>
+        <camId>04312</camId>
+        <camId>09316</camId>
+        <camId>06314</camId>
+        <camId>11307</camId>
+        <camId>02301</camId>
+        <camId>16314</camId>
+        <camId>16306</camId>
+        <camId>08327</camId>
+        <camId>08316</camId>
+        <camId>05301</camId>
+        <camId>12303</camId>
+        
     </cameras>
 </rotorcams>
 
